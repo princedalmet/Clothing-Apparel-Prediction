@@ -48,3 +48,5 @@ python request.py
 
  
 In this project we learned to deploy simple flask deployment project.
+
+![1](https://user-images.githubusercontent.com/99526815/166106131-8cb47ad1-e5e3-4eb6-8384-eaac74262110.PNG)
